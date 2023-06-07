@@ -1,6 +1,4 @@
-<div style="fill: black;[data-color-mode=dark] {
-    fill: white;
-}">
+<div style="fill: white">
   <div
   style="display: flex;
   justify-content: center; align-items: center;">
