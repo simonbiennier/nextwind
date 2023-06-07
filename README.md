@@ -1,36 +1,37 @@
-<div>
-
+<div style="margin: 1rem">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="public/images/logo.svg" style="filter: invert(1)">
-  <source media="(prefers-color-scheme: light)" srcset="public/images/logo.svg">
-  <img src="public/images/logo.svg" alt="Nextwind">
+  <source media="(prefers-color-scheme: dark)" srcset="public/images/logo_light.png">
+  <source media="(prefers-color-scheme: light)" srcset="public/images/logo_dark.png">
+  <img src="public/images/logo_dark.png" alt="Nextwind">
 </picture>
-
+<br />
+<br />
 </div>
-<div align="center" style="font-size:2rem"><strong>Nextwind</strong></div>
-<div align="center">Minimal yet complete template for a seamless web developer experience.</div>
+
+<div align="center" style="font-size:2rem; margin-top: 2rem;"><strong>Nextwind</strong></div>
+<div align="center">Minimal yet complete web template for a seamless developer experience.</div>
 <br />
 
 <div align="center">
-  <img alt="License" src="https://img.shields.io/github/license/simonbiennier/nextwind?style=for-the-badge&color=00de80&labelColor=000000">
+  <!-- <img src="https://img.shields.io/badge/next-0D1117?style=for-the-badge&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/tailwind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=white"> -->
+  <img alt="License" src="https://img.shields.io/github/license/simonbiennier/nextwind?style=for-the-badge&color=00de80&labelColor=0D1117">
 </div>
 
 <div align="center">
   <sub>Created by <a href="https://simon.biennier.com">Simon Biennier</a>
 </div>
 
-<br />
-
 ## Features
 
-Next.js, Tailwind, Typescript, etc.
+[Next.js](https://nextjs.org/), [Tailwind](https://tailwindcss.com), [Typescript](https://typescriptlang.org), etc.
 
 ## Quick Start
 
 ```bash
 git clone https://github.com/simonbiennier/nextwind
 cd nextwind
-yarn name:{windows|mac|linux} <project-name>
+yarn name <project-name>
 yarn
 ```
 
