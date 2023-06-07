@@ -1,9 +1,9 @@
 <div>
-<picture style="[data-color-mode=dark] {
-    filter: invert(1);
-}; display: flex; justify-content: center; align-items: center;">
-    <img src="public/images/next.svg">
-    <img src="public/images/tailwind.svg">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="public/images/logo.svg" style="filter: invert(1)">
+  <source media="(prefers-color-scheme: light)" srcset="public/images/logo.svg">
+  <img src="public/images/logo.svg" alt="Nextwind">
 </picture>
 
 </div>
