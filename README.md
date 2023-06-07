@@ -1,4 +1,4 @@
-<div style="margin: 1rem">
+<div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="public/images/logo_light.png">
   <source media="(prefers-color-scheme: light)" srcset="public/images/logo_dark.png">
@@ -8,7 +8,7 @@
 <br />
 </div>
 
-<div align="center" style="font-size:2rem; margin-top: 2rem;"><strong>Nextwind</strong></div>
+<h1 align="center"><strong>Nextwind</strong></h1>
 <div align="center">Minimal yet complete web template for a seamless developer experience.</div>
 <br />
 
