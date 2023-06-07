@@ -1,5 +1,5 @@
 <div align="center"><strong>Nextwind</strong></div>
-<div align="center">Minimal, fast yet complete <em>Next.js + Tailwind<em> template for the best web DX.</div>
+<div align="center">Minimal, fast yet complete <em>Next.js + Tailwind</em> template for the best web DX.</div>
 
 <br />
 
