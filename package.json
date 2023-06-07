@@ -3,7 +3,7 @@
   "version": "0.1",
   "private": true,
   "scripts": {
-    "name": "powershell ./name.ps1",
+    "name:windows": "powershell ./name.ps1",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
