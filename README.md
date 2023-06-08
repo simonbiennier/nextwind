@@ -38,8 +38,8 @@ yarn global add degit
 Then, run the following commands:
 
 ```bash
-degit https://github.com/simonbiennier/nextwind
-cd nextwind
+degit https://github.com/simonbiennier/nextwind <project-directory>
+cd <project-directory>
 yarn run init <project-name>
 yarn
 ```
