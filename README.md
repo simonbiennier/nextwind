@@ -40,9 +40,10 @@ Then, run the following commands:
 ```bash
 degit https://github.com/simonbiennier/nextwind <project-directory>
 cd <project-directory>
-yarn run init <project-name>
 yarn
 ```
+
+Finally, change the `name` field in `package.json` and the fields in `src/constant/meta.ts` to your project name.
 
 ### Development
 

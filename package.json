@@ -3,7 +3,6 @@
   "version": "0.1",
   "private": true,
   "scripts": {
-    "init": "powershell ./name.ps1",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
