@@ -4,8 +4,6 @@
   <source media="(prefers-color-scheme: light)" srcset="public/images/logo_dark.png">
   <img src="public/images/logo_dark.png" alt="Nextwind">
 </picture>
-<br />
-<br />
 </div>
 
 <h1 align="center"><strong>Nextwind</strong></h1>
