@@ -26,10 +26,21 @@
 
 ## Quick Start
 
+Install degit if you don't have it already:
+
 ```bash
-git clone https://github.com/simonbiennier/nextwind
+# npm
+npm install -g degit
+# yarn
+yarn global add degit
+```
+
+Then, run the following commands:
+
+```bash
+degit https://github.com/simonbiennier/nextwind
 cd nextwind
-yarn name <project-name>
+yarn run init <project-name>
 yarn
 ```
 
